@@ -3,6 +3,9 @@
     "description": "A fastcampus downloader for paid students.",
     "version": "0.0.1",
     "main": "lib/index.js",
+    "engines": {
+        "node": ">= 10"
+    },
     "repository": "https://github.com/skt-t1-byungi/fastcampus-downloader.git",
     "author": "skt-t1-byungi <tiniwz@gmail.com>",
     "license": "MIT",
