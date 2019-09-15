@@ -1,7 +1,7 @@
 {
     "name": "fastcampus-downloader",
     "description": "A fastcampus downloader for paying students.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "lib/index.js",
     "engines": {
         "node": ">= 10"
