@@ -1,5 +1,5 @@
 # fastcampus-downloader
-> A fastcampus downloader for paid students.
+> A fastcampus downloader for paying students.
 
 [![npm](https://badgen.net/npm/v/fastcampus-downloader)](https://www.npmjs.com/package/fastcampus-downloader)
 
