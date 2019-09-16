@@ -28,7 +28,6 @@
         "phin": "^3.4.0",
         "prompts": "^2.2.1",
         "puppeteer-core": "^1.20.0",
-        "unused-filename": "^2.1.0",
         "util-is-email": "^1.0.0",
         "ytdl-run": "^0.2.1"
     },
